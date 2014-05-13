@@ -12,7 +12,6 @@
  * http://www.infragistics.com/products/ios/
  * http://dimplejs.org
  * https://github.com/fastly/epoch
-
  * http://cytoscape.github.io/cytoscape.js/
 
 Altro:
