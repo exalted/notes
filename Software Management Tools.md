@@ -13,6 +13,10 @@ Agile Management
 * https://www.atlassian.com/software/jira/agile
 * https://www.kanbanpad.com
 * http://www.thoughtworks.com/products/mingle-agile-project-management/
+* http://www.agilezen.com
+* https://www.planbox.com
+* http://www.pivotaltracker.com
+* http://www.targetprocess.com
 
 Project/Team Management
 
