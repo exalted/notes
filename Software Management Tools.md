@@ -17,6 +17,7 @@ Agile Management
 * https://www.planbox.com
 * http://www.pivotaltracker.com
 * http://www.targetprocess.com
+* https://sprint.ly
 
 Project/Team Management
 
