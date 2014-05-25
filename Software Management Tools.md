@@ -18,6 +18,7 @@ Agile Management
 * http://www.pivotaltracker.com
 * http://www.targetprocess.com
 * https://sprint.ly
+* https://www.apptrajectory.com
 
 Project/Team Management
 
