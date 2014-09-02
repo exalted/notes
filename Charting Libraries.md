@@ -13,6 +13,7 @@
  * http://dimplejs.org
  * https://github.com/fastly/epoch
  * http://cytoscape.github.io/cytoscape.js/
+ * https://github.com/gionkunz/chartist-js
 
 Altro:
  * http://infogr.am
