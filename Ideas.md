@@ -12,3 +12,4 @@
 * Automated deployment: *aaS–agnostic (e.g., Heroku, Linode, bare metal, etc.), REST–enabled (e.g., CLI, Hubot, or any other third–party, etc.), best–practices (e.g., zero downtime), containers (docker)
 * Screencasting (iMovie style)
 * iPoop
+* Buongiorno/notte app
