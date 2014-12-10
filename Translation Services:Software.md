@@ -7,6 +7,7 @@
  * http://www.wordchuck.com
  * https://dakwak.com
  * https://phraseapp.com
+ * http://weblate.org/
 
  * http://copycopter.com (open source)
 
