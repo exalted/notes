@@ -10,6 +10,7 @@ Notes
 * [MoSCoW Method](http://www.projectsmart.co.uk/moscow-method.php)
 * `.` is an empty block
 * If something is not "defined" yet, you can't "use" it
+* Syntax shall not be _not_ case sensitive, but the script is
 * Last argument of a method definition can be used either as an input value or a return value
 
 Code Example
@@ -20,17 +21,17 @@ Requirements for Human:
   - Must say something
 
 Definition of OrdinaryPerson as Human:
-  say something:
+  Say something:
     (says something exactly once)
 
 Requirements for Climber as OrdinaryPerson:
-  say something: (this is a method override)
-    repeat "OrdinaryPerson.say something" n-times
+  Say something: (this is a method override)
+    Repeat "OrdinaryPerson say something" n-times
 
   - Could echo n-times
 
 Definition of MountainClimber as Climber:
-  echo: 3 (this is a single line block)
+  Echo: 3 (this is a single line block)
 
 Definition of RoofClimber is Climber.
 ```
