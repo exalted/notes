@@ -10,6 +10,7 @@ README
 * [MoSCoW Method](http://www.projectsmart.co.uk/moscow-method.php)
 * `.` is an empty block
 * If something is not "defined" yet, you can't "use" it
+* Last argument of a method definition can be used either as an input value or a return value
 
 ================================================================================
 
@@ -25,7 +26,7 @@ Definition of OrdinaryPerson as Human:
 end
 
 Requirements for Climber as OrdinaryPerson:
-  say something:
+  say something: (this is a method override)
     repeat "OrdinaryPerson.say something" n-times
   end
 
