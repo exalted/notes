@@ -1,5 +1,5 @@
-README
-======
+Notes
+-----
 
 * Ambiguity *sucks*, there must be only one _right_ way to do it
 * `is` and `are` keywords are synonyms
@@ -12,7 +12,8 @@ README
 * If something is not "defined" yet, you can't "use" it
 * Last argument of a method definition can be used either as an input value or a return value
 
-================================================================================
+Code Example
+------------
 
 ```
 Requirements for Human:
@@ -34,9 +35,21 @@ Requirements for Climber as OrdinaryPerson:
 end
 
 Definition of MountainClimber as Climber:
-  echo: 7
+  echo: 3
 end
 
 Definition of RoofClimber as Climber:
 end
+```
+
+Fake REPL
+---------
+
+```
+> john as OrdinaryPerson say "Hello, World! ;-)"
+(this prints "Hello, World! ;-)" exactly once)
+
+> clark as MountainClimber
+> clark say "Is anybody out there?"
+(this prints "Is anybody out there?" three times)
 ```
