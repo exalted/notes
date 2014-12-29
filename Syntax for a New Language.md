@@ -42,7 +42,7 @@ Fake REPL
 > john as OrdinaryPerson say "Hello, World! ;-)"
 (this prints "Hello, World! ;-)" exactly once)
 
-> clark as MountainClimber
+> clark is MountainClimber
 > clark say "Is anybody out there?"
 (this prints "Is anybody out there?" three times)
 ```
