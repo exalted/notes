@@ -30,7 +30,7 @@ Requirements for Climber as OrdinaryPerson:
   - Could echo n-times
 
 Definition of MountainClimber as Climber:
-  echo: 3
+  echo: 3 (this is a single line block)
 
 Definition of RoofClimber is Climber.
 ```
