@@ -26,7 +26,7 @@ Definition of OrdinaryPerson as Human:
 
 Requirements for Climber as OrdinaryPerson:
   Say something: (this is a method override)
-    (... but then we can explicitly call another implementation: (e.g., `OrdinaryPerson say`))
+    (... but then we can explicitly call another implementation: (e.g., `like OrdinaryPerson`))
     Repeat "say something" like OrdinaryPerson n-times
 
   - Could echo n-times
