@@ -29,7 +29,7 @@ Requirements for Climber as OrdinaryPerson:
     (... but then we can explicitly call another implementation: (e.g., `like OrdinaryPerson`))
     Repeat "say something" like OrdinaryPerson n-times
 
-  - Could echo n-times
+  - Could echo n-times or "say something" like OrdinaryPerson
 
 Definition of MountainClimber as Climber:
   Echo: 3 (this is a single line block)
