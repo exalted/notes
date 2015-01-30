@@ -5,6 +5,7 @@ Kanban Boards( + GitHub (Issues))
 * http://trello.com (via third–party automation services e.g., https://zapier.com/zapbook/github/trello/)
 * http://asana.com (via third–party automation services, or something unrelated: https://asana.com/apps/github)
 * https://www.zenhub.io (tweaks GitHub's web interface)
+* https://kanbanflow.com/
 
 Agile Management
 
