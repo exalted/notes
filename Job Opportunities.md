@@ -7,13 +7,13 @@
 * https://github.com/lukasz-madon/awesome-remote-job/
 
 
-# Interesting Companies
-
-## Inspiring
+# Inspiring
 
 * https://github.com
 * https://basecamp.com
+* http://www.apprentice.io/
 
-## App Development
+
+# App Development
 
 * http://metalab.co
