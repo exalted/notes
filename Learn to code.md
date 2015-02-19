@@ -1,3 +1,5 @@
+# Generic
+
 * https://www.codeschool.com
 * http://teamtreehouse.com
 * https://learn.thoughtbot.com
@@ -6,3 +8,11 @@
 * http://www.pluralsight.com/
 * http://www.digitaltutors.com
 * http://exercism.io/
+
+
+# Ruby & Rails
+
+* rubymonk.com
+* ruby.railstutorial.org
+* projecteuler.net
+* rubyoffrails.com
