@@ -1,19 +1,19 @@
 # Generic
 
-* https://www.codeschool.com
+* http://www.codeschool.com
 * http://teamtreehouse.com
-* https://learn.thoughtbot.com
+* http://upcase.com
 * http://www.codecademy.com
-* https://www.udemy.com
+* http://www.udemy.com
 * http://www.pluralsight.com/
 * http://www.digitaltutors.com
 * http://exercism.io/
-* https://teamgaslight.com/training/
+* http://teamgaslight.com/training/
 
 
 # Ruby & Rails
 
-* rubymonk.com
-* ruby.railstutorial.org
-* projecteuler.net
-* rubyoffrails.com
+* http://rubymonk.com
+* http://ruby.railstutorial.org
+* http://projecteuler.net
+* http://rubyoffrails.com
