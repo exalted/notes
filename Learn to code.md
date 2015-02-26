@@ -8,6 +8,7 @@
 * http://www.pluralsight.com/
 * http://www.digitaltutors.com
 * http://exercism.io/
+* https://teamgaslight.com/training/
 
 
 # Ruby & Rails
