@@ -11,7 +11,7 @@
 * http://teamgaslight.com/training/
 
 
-# Ruby & Rails
+# Ruby( & Rails)
 
 * http://rubymonk.com
 * http://ruby.railstutorial.org
