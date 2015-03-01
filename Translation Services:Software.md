@@ -17,7 +17,6 @@
 * http://crowdin.net
 * https://dakwak.com
 * https://phraseapp.com
-* http://www.tethras.com (iOS, Android or Windows Phone)
 
 ## Weak
 
