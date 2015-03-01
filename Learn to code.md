@@ -17,3 +17,8 @@
 * http://ruby.railstutorial.org
 * http://projecteuler.net
 * http://rubyoffrails.com
+
+
+# Ember.js
+
+* http://embergrep.com
