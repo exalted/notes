@@ -1,17 +1,17 @@
 # Job Listings
 
-* https://weworkremotely.com
+* http://weworkremotely.com
 * http://careers.stackoverflow.com
-* https://jobs.github.com
+* http://jobs.github.com
 * http://www.authenticjobs.com
-* https://github.com/lukasz-madon/awesome-remote-job/
-* https://hired.com
+* http://github.com/lukasz-madon/awesome-remote-job/
+* http://hired.com
 
 
 # Inspiring
 
-* https://github.com
-* https://basecamp.com
+* http://github.com
+* http://basecamp.com
 * http://www.apprentice.io/
 
 
