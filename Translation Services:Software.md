@@ -17,6 +17,7 @@
 * http://crowdin.net
 * https://dakwak.com
 * https://phraseapp.com
+* https://poeditor.com
 
 ## Weak
 
