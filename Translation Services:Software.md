@@ -1,23 +1,36 @@
- * https://www.transifex.com
- * http://www.oneskyapp.com
- * https://webtranslateit.com/en
- * http://www.smartling.com
- * http://www.getlocalization.com
- * http://crowdin.net
- * http://www.wordchuck.com
- * https://dakwak.com
- * https://phraseapp.com
- * http://weblate.org/
+# Requirements:
 
- * http://copycopter.com (open source)
+* Integrates with GitHub
+* *aaS, rather than a software to install
+* Free for OSS
 
- * http://www.localeapp.com (for Rails apps)
- * http://translate.uservoice.com (no source/setup)
 
- * http://www.tethras.com (iOS, Android or Windows Phone)
+# Candidates
 
- * tran.sl (yet to be launched)
+## Strong
 
-For iOS
- * http://www.delitestudio.com/app/localizable-strings-merge/
- * http://www.loc-suite.org
+* https://www.transifex.com
+* http://www.oneskyapp.com
+* https://webtranslateit.com/en
+* http://www.smartling.com
+* http://www.getlocalization.com
+* http://crowdin.net
+* https://dakwak.com
+* https://phraseapp.com
+* http://www.tethras.com (iOS, Android or Windows Phone)
+
+## Weak
+
+* http://weblate.org/ (primarily installation based)
+* http://copycopter.com (now open source, not hosted anymore)
+* http://www.localeapp.com (Rails only)
+* http://translate.uservoice.com (uservoice's internal tool, no source/setup yet)
+
+## Dead
+
+* ~~http://www.wordchuck.com~~ appears to be dead
+
+## For iOS
+
+* http://www.delitestudio.com/app/localizable-strings-merge/
+* http://www.loc-suite.org
