@@ -18,6 +18,7 @@
 * https://dakwak.com
 * https://phraseapp.com
 * https://poeditor.com
+* http://pootle.translatehouse.org
 
 ## Weak
 
