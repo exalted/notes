@@ -11,6 +11,12 @@
 * http://teamgaslight.com/training/
 
 
+# Koans
+
+* http://rubykoans.com
+* http://github.com/sleepyfox/coffeescript-koans
+
+
 # Ruby( & Rails)
 
 * http://rubymonk.com
