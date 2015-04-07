@@ -23,6 +23,7 @@
 * http://ruby.railstutorial.org
 * http://projecteuler.net
 * http://rubyoffrails.com
+* http://iwanttolearnruby.com/
 
 
 # Ember.js
