@@ -15,6 +15,7 @@
  * http://cytoscape.github.io/cytoscape.js/
  * https://github.com/gionkunz/chartist-js
  * https://github.com/jawbone/jbchartview
+ * https://github.com/danielgindi/ios-charts
 
 Altro:
  * http://infogr.am
