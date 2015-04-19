@@ -5,7 +5,8 @@
 * Money Management
 * Venture capital for the rest of us (see detailed note)
 * Restaurant management
-* Lisedeki cizgilerle kare kapatma oyunu
+* ~~Lisedeki cizgilerle kare kapatma oyunu~~ (Paddox by James Finley
+https://appsto.re/it/IbGG5.i)
 * Social network arkadaslarinla muttefikli kare feth etme oyunu
 * Mehmet enistenin satin alma platformu
 * Smart Home (arduino)
