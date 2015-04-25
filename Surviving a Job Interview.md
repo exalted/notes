@@ -19,3 +19,4 @@
 * [Computational complexity](http://en.wikipedia.org/wiki/Computational_complexity_theory#Important_complexity_classes)
 * Different Algorithms (sorting, searching, etc.)
 * [Data Structures](http://en.wikipedia.org/wiki/List_of_data_structures)
+* http://en.m.wikipedia.org/wiki/ACID
