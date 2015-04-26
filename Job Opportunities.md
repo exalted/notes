@@ -6,6 +6,7 @@
 * http://www.authenticjobs.com
 * http://github.com/lukasz-madon/awesome-remote-job/
 * http://hired.com
+* https://angel.co/jobs
 
 
 # Inspiring
