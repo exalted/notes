@@ -9,6 +9,7 @@
 * http://www.digitaltutors.com
 * http://exercism.io/
 * http://teamgaslight.com/training/
+* http://egghead.io/
 
 
 # Koans
