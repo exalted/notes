@@ -20,3 +20,4 @@
 * Different Algorithms (sorting, searching, etc.)
 * [Data Structures](http://en.wikipedia.org/wiki/List_of_data_structures)
 * http://en.m.wikipedia.org/wiki/ACID (Atomicity, Consistency, Isolation, Durability)
+* SOLID (object-oriented design) (Single responsibility, Open-closed, Liskov substitution, Interface segregation and Dependency inversion)
