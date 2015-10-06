@@ -7,6 +7,7 @@
 * http://github.com/lukasz-madon/awesome-remote-job/
 * http://hired.com
 * https://angel.co/jobs
+* http://www.workingnomads.co/jobs
 
 
 # Inspiring
