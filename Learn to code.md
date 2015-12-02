@@ -10,6 +10,7 @@
 * http://exercism.io/
 * http://teamgaslight.com/training/
 * http://egghead.io/
+* http://www.skillshare.com/classes/technology
 
 
 # Koans
