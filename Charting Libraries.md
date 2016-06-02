@@ -14,7 +14,7 @@
  * https://github.com/fastly/epoch
  * http://cytoscape.github.io/cytoscape.js/
  * https://github.com/gionkunz/chartist-js
- * https://github.com/jawbone/jbchartview
+ * https://github.com/jawbone/jbchartview (Fabric.app uses this)
  * https://github.com/danielgindi/ios-charts
 
 Altro:
