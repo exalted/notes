@@ -22,7 +22,6 @@
 ## Weak
 
 * http://weblate.org/ (primarily installation based)
-* http://copycopter.com (now open source, not hosted anymore)
 * http://www.localeapp.com (Rails only)
 * http://translate.uservoice.com (uservoice's internal tool, no source/setup yet)
 
@@ -30,6 +29,7 @@
 
 * http://www.getlocalization.com
 * http://www.wordchuck.com
+* http://copycopter.com
 
 ## For iOS
 
