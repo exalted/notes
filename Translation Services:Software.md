@@ -13,12 +13,11 @@
 * http://www.oneskyapp.com
 * https://webtranslateit.com/en
 * http://www.smartling.com
-* http://www.getlocalization.com
 * http://crowdin.net
 * https://dakwak.com
 * https://phraseapp.com
 * https://poeditor.com
-* http://pootle.translatehouse.org
+* http://pootle.translatehouse.org (self hosted?)
 
 ## Weak
 
@@ -29,7 +28,8 @@
 
 ## Dead
 
-* ~~http://www.wordchuck.com~~ appears to be dead
+* http://www.getlocalization.com
+* http://www.wordchuck.com
 
 ## For iOS
 
